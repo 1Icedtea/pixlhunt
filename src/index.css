@@ -6,7 +6,11 @@
   --default-margin: 1rem;
   --medium-margin: 3rem;
   --larger-margin: 5rem;
+<<<<<<< HEAD
   --primary-color: #7676d7;
+=======
+  --primary-color: #000;
+>>>>>>> 8c5eb78 (first commit)
 }
 
 * {
@@ -33,7 +37,11 @@ body {
 .title {
   text-align: center;
   margin-top: var(--default-margin);
+<<<<<<< HEAD
   color: #7676d7;
+=======
+  color: var(--primary-color);
+>>>>>>> 8c5eb78 (first commit)
 }
 
 .buttons {
@@ -60,7 +68,11 @@ body {
 }
 
 .loading {
+<<<<<<< HEAD
   color: #6565d4;
+=======
+  color: #000;
+>>>>>>> 8c5eb78 (first commit)
   text-align: center;
   margin-top: 20px;
   font-size: 20px;
@@ -101,7 +113,11 @@ body {
 
 .filters > * {
   padding: 5px 10px;
+<<<<<<< HEAD
   background: #7676d7;
+=======
+  background: var(--primary-color);
+>>>>>>> 8c5eb78 (first commit)
   color: #fff;
   border-radius: 5px;
   cursor: pointer;
